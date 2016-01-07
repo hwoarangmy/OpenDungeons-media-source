@@ -5,6 +5,13 @@ This file is listing each files present in this repository and it corresponding 
 
 Latest update: 2014.07.30
 
+===================
+==  Logo: Logo/  ==
+===================
+
+Name                                   Author                  License                 Source URL
+------------------------------------------------------------------------------------------------------------------------
+opendungeonslogo.xcf                   Dakal                   CC-BY-SA 4.0            http://forum.freegamedev.net/viewtopic.php?f=38&t=6703&sid=47e7fe197bbdfe51c68d593d6f1be38c
 
   File                                                                      License
 ----------------------------------------------------------------------    -------------------------------
