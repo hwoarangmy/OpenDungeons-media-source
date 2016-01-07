@@ -13,6 +13,14 @@ Name                                   Author                  License          
 ------------------------------------------------------------------------------------------------------------------------
 opendungeonslogo.xcf                   Dakal                   CC-BY-SA 4.0            http://forum.freegamedev.net/viewtopic.php?f=38&t=6703&sid=47e7fe197bbdfe51c68d593d6f1be38c
 
+======================
+==  Models: models/ ==
+======================
+
+Name                                   Author                  License                 Source URL
+------------------------------------------------------------------------------------------------------------------------
+NatureMonster/*                        CDmir                   CC0                     http://opengameart.org/content/forest-monster
+
   File                                                                      License
 ----------------------------------------------------------------------    -------------------------------
 
